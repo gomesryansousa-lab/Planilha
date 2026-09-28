@@ -1,0 +1,8 @@
+{
+  "name": "Vendas Diárias — Bazar",
+  "description": "Controle completo de vendas diárias, retiradas e estoque para bazares.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
